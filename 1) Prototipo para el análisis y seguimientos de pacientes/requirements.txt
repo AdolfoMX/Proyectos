@@ -1,0 +1,12 @@
+jwt
+bcrypt
+mysql-connector-python
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+streamlit==1.26.0
+streamlit-option-menu
+streamlit-authenticator==0.1.5
+streamlit-lottie
